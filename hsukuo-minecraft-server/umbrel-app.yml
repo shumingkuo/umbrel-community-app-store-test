@@ -2,7 +2,7 @@ manifestVersion: 1.1
 id: hsukuo-minecraft-server
 category: Game
 name: Minecraft Server
-version: "1.20.1"
+version: "1.20.11"
 tagline: This is a test (tagline)
 icon: https://i.imgur.com/d2LRETc.png
 description: >-
