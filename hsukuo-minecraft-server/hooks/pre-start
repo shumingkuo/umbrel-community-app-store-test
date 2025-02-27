@@ -1,2 +1,0 @@
-echo "${UMBREL_ROOT}"
-echo "123"
