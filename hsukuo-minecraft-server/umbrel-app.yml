@@ -11,12 +11,16 @@ description: >-
   This is a test (description line 2)
 
   This is a test (description line 3)
+
+  This is a test (description line 4)
 releaseNotes: >-
   This is a test (releaseNotes line 1)
 
   This is a test (releaseNotes line 2)
 
   This is a test (releaseNotes line 3)
+
+  This is a test (releaseNotes line 4)
 developer: Mojang AB
 website: https://www.minecraft.net
 dependencies: []
