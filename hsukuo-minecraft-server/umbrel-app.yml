@@ -2,7 +2,7 @@ manifestVersion: 1.1
 id: hsukuo-minecraft-server
 category: Game
 name: Minecraft Server
-version: "2025.2.1"
+version: "2025.2.2"
 tagline: This is a test (tagline)
 icon: https://i.imgur.com/d2LRETc.png
 description: >-
@@ -26,7 +26,6 @@ website: https://www.minecraft.net
 dependencies: []
 repo: https://github.com/mojang
 support: https://github.com/itzg/docker-minecraft-server
-port: 25565
 gallery:
   - https://i.imgur.com/p47IJvi.png
 path: ""
