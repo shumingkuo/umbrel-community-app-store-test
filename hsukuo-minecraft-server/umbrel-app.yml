@@ -1,0 +1,31 @@
+manifestVersion: 1.1
+id: hsukuo-minecraft-server
+category: Game
+name: Minecraft Server
+version: "1.20.1"
+tagline: This is a test (tagline)
+icon: https://i.imgur.com/d2LRETc.png
+description: >-
+  This is a test (description line 1)
+
+  This is a test (description line 2)
+  This is a test (description line 3)
+releaseNotes: >-
+  This is a test (releaseNotes line 1)
+  This is a test (releaseNotes line 2)
+
+  This is a test (releaseNotes line 3)
+developer: Mojang AB
+website: https://www.minecraft.net
+dependencies: []
+repo: https://github.com/mojang
+support: https://github.com/itzg/docker-minecraft-server
+port: 25565
+gallery:
+  - https://i.imgur.com/p47IJvi.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+submitter: ShuMing Kuo
+submission: https://github.com/shumingkuo/umbrel-community-app-store-test/pulls
