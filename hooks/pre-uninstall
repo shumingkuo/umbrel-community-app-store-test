@@ -1,11 +1,8 @@
-if [ -d "${UMBREL_ROOT}/backup" ]; then
-  mkdir ${UMBREL_ROOT}/backup
-fi
+echo ${UMBREL_ROOT}
 
-if [ ! -d "/path/to/directory" ]; then
-    echo "The backup folder does not exist, create it."
-    mkdir -p ${UMBREL_ROOT}/backup
-fi
+# if [ ! -d "${UMBREL_ROOT}/backup" ]; then
+#   echo "The backup folder does not exist, create it."
+#   mkdir ${UMBREL_ROOT}/backup
+# fi
 
-
-cp -a ${APP_DATA_DIR}/data ${UMBREL_ROOT}
+# cp -a ${APP_DATA_DIR}/data ${UMBREL_ROOT}
