@@ -1,0 +1,36 @@
+manifestVersion: 1.1
+id: hsukuo-minecraft
+category: Game
+name: Minecraft
+version: "2025.3.1"
+tagline: This is a test (tagline)
+icon: https://i.imgur.com/d2LRETc.png
+description: >-
+  This is a test (description line 1)
+
+  This is a test (description line 2)
+
+  This is a test (description line 3)
+
+  This is a test (description line 4)
+releaseNotes: >-
+  This is a test (releaseNotes line 1)
+
+  This is a test (releaseNotes line 2)
+
+  This is a test (releaseNotes line 3)
+
+  This is a test (releaseNotes line 4)
+developer: Mojang AB
+website: https://www.minecraft.net
+dependencies: []
+repo: https://github.com/mojang
+support: https://github.com/itzg/docker-minecraft-server
+gallery:
+  - https://i.imgur.com/p47IJvi.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+submitter: ShuMing Kuo
+submission: https://github.com/shumingkuo/umbrel-community-app-store-test/pulls
