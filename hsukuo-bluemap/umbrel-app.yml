@@ -1,0 +1,29 @@
+manifestVersion: 1.1
+id: hsukuo-bluemap
+category: Game Tools
+name: BlueMap
+version: "2025.3.1"
+tagline: This is a test (tagline)
+icon: https://i.imgur.com/wDNcbbx.png
+description: >-
+  This is a test (description line 1)
+
+  This is a test (description line 2)
+releaseNotes: >-
+  This is a test (releaseNotes line 1)
+
+  This is a test (releaseNotes line 2)
+developer: BlueMap
+website: https://bluemap.bluecolored.de
+dependencies:
+  - hsukuo-minecraft
+repo: https://github.com/BlueMap-Minecraft/BlueMap
+support: https://github.com/BlueMap-Minecraft/BlueMap/issues
+gallery:
+  - https://bluecolored.de/paste/BlueMapScreenshot.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+submitter: ShuMing Kuo
+submission: https://github.com/shumingkuo/umbrel-community-app-store-test/pulls
