@@ -1,8 +1,7 @@
 version: "3.7"
 services:
-  minecraft:
+  service:
     image: itzg/minecraft-server:java21@sha256:06a047d7b62f5bf55a31ffc73f114d3fdafdf569cda5623eadf143d7f2f3c506
-    # container_name: hsukuo-minecraft-server
     environment:
       EULA: "TRUE"
       VERSION: "1.20.1"

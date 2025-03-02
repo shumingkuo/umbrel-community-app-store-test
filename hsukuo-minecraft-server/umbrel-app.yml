@@ -1,8 +1,8 @@
 manifestVersion: 1.1
-id: hsukuo-minecraft-server
+id: hsukuo-minecraft-j
 category: Game
-name: Minecraft Server
-version: "2025.2.2"
+name: Minecraft J
+version: "2025.2.3"
 tagline: This is a test (tagline)
 icon: https://i.imgur.com/d2LRETc.png
 description: >-
