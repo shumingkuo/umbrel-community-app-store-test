@@ -2,7 +2,7 @@ manifestVersion: 1.1
 id: hsukuo-bluemap
 category: Game Tools
 name: BlueMap
-version: "2025.3.1"
+version: "2025.3.2"
 tagline: This is a test (tagline)
 icon: https://i.imgur.com/wDNcbbx.png
 description: >-
@@ -19,6 +19,7 @@ dependencies:
   - hsukuo-minecraft
 repo: https://github.com/BlueMap-Minecraft/BlueMap
 support: https://github.com/BlueMap-Minecraft/BlueMap/issues
+port: 18100
 gallery:
   - https://bluecolored.de/paste/BlueMapScreenshot.jpg
 path: ""
