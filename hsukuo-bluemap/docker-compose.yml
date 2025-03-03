@@ -2,7 +2,6 @@ version: "3.7"
 services:
   server:
     image: ghcr.io/bluemap-minecraft/bluemap:v5.7@sha256:bcd15a23651f45eca1b699636f570fbbb5c50ac4f9db74e8ed73639f7cc82ee0
-    user: 1000:1000
     command: -r -u -w
     ports:
       - 18100:8100
