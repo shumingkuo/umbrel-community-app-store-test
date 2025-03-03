@@ -8,6 +8,7 @@ icon: https://i.imgur.com/d2LRETc.png
 description: >-
   Minecraft is a popular sandbox game that lets players build and explore infinite worlds.
   
+  
   With this Umbrel app, you can host your own dedicated Minecraft server,
   
   allowing you and your friends to play together in a persistent world.
@@ -21,8 +22,11 @@ description: >-
   Supports multiple Minecraft versions, plugins, and mods to enhance your gameplay.
 releaseNotes: >-
   - Initial release of the Minecraft Server for Umbrel OS.
+  
   - Based on Itzg’s Docker Minecraft Server for easy setup and customization.
+  
   - Configuration options available via environment variables.
+  
   - Seamless multiplayer experience for you and your friends.
 developer: Mojang AB
 website: https://www.minecraft.net
@@ -36,4 +40,4 @@ defaultUsername: ""
 defaultPassword: ""
 torOnly: false
 submitter: ShuMing Kuo
-submission: https://github.com/shumingkuo/umbrel-community-app-store-test/pulls
+submission: https://github.com/shumingkuo/umbrel-community-app-store-test
