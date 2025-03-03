@@ -2,25 +2,28 @@ manifestVersion: 1.1
 id: hsukuo-minecraft
 category: Game
 name: Minecraft
-version: "2025.3.2"
-tagline: This is a test (tagline)
+version: "2025.3.3"
+tagline: Run a Minecraft server and play with friends anytime, anywhere.
 icon: https://i.imgur.com/d2LRETc.png
 description: >-
-  This is a test (description line 1)
+  Minecraft is a popular sandbox game that lets players build and explore infinite worlds.
+  
+  With this Umbrel app, you can host your own dedicated Minecraft server,
+  
+  allowing you and your friends to play together in a persistent world.
+  
 
-  This is a test (description line 2)
+  This server is based on the popular Itzg Docker Minecraft Server,
+  
+  providing a flexible and easily configurable experience.
+  
 
-  This is a test (description line 3)
-
-  This is a test (description line 4)
+  Supports multiple Minecraft versions, plugins, and mods to enhance your gameplay.
 releaseNotes: >-
-  This is a test (releaseNotes line 1)
-
-  This is a test (releaseNotes line 2)
-
-  This is a test (releaseNotes line 3)
-
-  This is a test (releaseNotes line 4)
+  - Initial release of the Minecraft Server for Umbrel OS.
+  - Based on Itzg’s Docker Minecraft Server for easy setup and customization.
+  - Configuration options available via environment variables.
+  - Seamless multiplayer experience for you and your friends.
 developer: Mojang AB
 website: https://www.minecraft.net
 dependencies: []
