@@ -24,7 +24,7 @@ repo: https://github.com/BlueMap-Minecraft/BlueMap
 support: https://github.com/BlueMap-Minecraft/BlueMap/issues
 port: 18100
 gallery:
-  - https://bluecolored.de/paste/BlueMapScreenshot.jpg
+  -
 path: ""
 defaultUsername: ""
 defaultPassword: ""
